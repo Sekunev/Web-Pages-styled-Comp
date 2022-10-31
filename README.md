@@ -1,6 +1,6 @@
 # Weather App
 
-### Check The Live Website ➡️ [Live Website](https://sekunev-weather-app.netlify.app/)
+### Check The Live Website ➡️ [Live Website](https://styled-components-web-pages.netlify.app/)
 
 ### Description
 
@@ -8,7 +8,7 @@ The project aims to create a web page App using React Router and styled-componen
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/Weather-App-React/blob/main/src/Animation.gif)
+![image](https://github.com/Sekunev/Web-Pages-styled-Comp/blob/main/src/Animation.gif)
 
 ### Project Skeleton
 
